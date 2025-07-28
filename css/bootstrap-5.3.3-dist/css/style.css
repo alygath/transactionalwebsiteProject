@@ -1,0 +1,13 @@
+/* Custom CSS for Navbar Icons */
+/* More specific selector */
+.navbar .navbar-nav .nav-item .nav-link.nav-icon i {
+    font-size: 1.5rem !important; /* Larger icons */
+    margin-right: 20px !important; /* Spacing between icons */
+}
+
+footer{
+	bottom: 0;
+	width:100%;
+
+	
+	}
